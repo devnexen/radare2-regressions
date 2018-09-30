@@ -525,7 +525,7 @@ crypto   false
 endian   little
 havecode true
 intrp    /lib64/ld-linux-x86-64.so.2
-lang     c++
+lang     cxx
 linenum  true
 lsyms    true
 machine  AMD x86-64 architecture
