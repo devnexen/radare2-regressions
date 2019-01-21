@@ -493,6 +493,8 @@ baddr    0x8048000
 binsz    4899
 bintype  elf
 bits     32
+hashes   md5 16cfa923310491f801efeb685150d9d6
+sha1 e218202875386cf4a0cd3ce22490fcd48db91491
 canary   false
 sanitiz  false
 class    ELF32
@@ -573,6 +575,8 @@ baddr    0x0
 binsz    7051
 bintype  elf
 bits     64
+hashes   md5 8d331d32d654450cdf58645c7db8ca99
+sha1 f8c3c290ba946909985a1b3c8cab8cbede1bf9fa
 canary   false
 sanitiz  false
 class    ELF64
@@ -609,6 +613,8 @@ baddr    0x400000
 binsz    1603255
 bintype  elf
 bits     64
+hashes   md5 dfd8ca99ced7764988a062abced955e9
+sha1 15abbc42c03e44515a2d30eaba90c29aacc1e4b9
 canary   false
 sanitiz  true
 class    ELF64
@@ -645,6 +651,8 @@ baddr    0x100000000
 binsz    9828
 bintype  mach0
 bits     64
+hashes   md5 72e42c18ebbd5bdff30aff739ef9e4c6
+sha1 1c0c4d254e77d89c27f0cc03b85b1b1bf3b58f1b
 canary   false
 sanitiz  false
 class    MACH064
