@@ -141,6 +141,7 @@ relocs   false
 static   true
 stripped false
 va       false
+compiler GCC: (GNU) 4.8.2
 [Imports]
 Num  Vaddr       Bind      Type Name
 [Exports]
@@ -3038,6 +3039,7 @@ static   false
 stripped false
 subsys   linux
 va       true
+compiler GCC: (GNU) 4.7.2
 EOF
 CMDS=<<EOF
 iI
